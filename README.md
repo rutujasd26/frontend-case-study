@@ -96,7 +96,7 @@ The project uses a JSON file to store profile data.
 Feel free to fork this repository and contribute with new features or improvements!
 
 ## License
-This project is open-source and available under the MIT License.
+This project is not open-source and available under Rutuja Dere.
 
 =======
 # Getting Started with Create React App
