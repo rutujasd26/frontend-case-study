@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Rutuja Dere",
+      "photo": "https://img.freepik.com/premium-photo/good-looking-indian-girl-with-subtle-smile-white-background-wearing-half-sleeve-formal-shirt_878783-7242.jpg",
+      "description": "Developer",
+      "address": "1600 Amphitheatre Pkwy, Mountain View, CA",
+      "lat": 37.42216,
+      "lng": -122.08427
+    },
+    {
+      "id": 2,
+      "name": "Tom Holland",
+      "photo": "https://cdnintech.com/media/author/544566/1695907286/profile/image1.jpg",
+      "description": "Data Scientist",
+      "address": "1 Hacker Way, Menlo Park, CA",
+      "lat": 37.48457,
+      "lng": -122.14838
+      
+    },
+    {
+      "id": 3,
+      "name": "Tony Stark",
+      "photo": "https://img.freepik.com/premium-photo/happy-man-ai-generated-portrait-user-profile_1119669-1.jpg",
+      "description": "Software Engineer",
+      "address": "10 Downing Street, London, UK",
+      "lat": 37.422,
+      "lng": -122.084
+    }
+  ]
+  
